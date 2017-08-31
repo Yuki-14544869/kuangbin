@@ -1,0 +1,3 @@
+C:\Users\81226\.CLion2017.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "\"C:/Users/81226/Documents/code/kuangbin/[kuangbin带你飞]专题一 简单搜索/A\""
+CMake Error: The source directory "/cygdrive/c/Users/81226/Documents/code/kuangbin/[kuangbin甯︿綘椋瀅涓撻涓� 绠�鍗曟悳绱�/A/cmake-build-debug/"/"C:/Users/81226/Documents/code/kuangbin/[kuangbin甯︿綘椋瀅涓撻涓� 绠�鍗曟悳绱�/A/""" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
